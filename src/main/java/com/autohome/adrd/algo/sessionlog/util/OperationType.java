@@ -23,7 +23,7 @@ public enum OperationType {
 	FILTER((byte) 9, "filter"), 
 	USERINFO((byte) 10, "userinfo"),
 	APPPV((byte) 11, "apppv"),
-	AD_CLICK_NEW((byte) 12,"adclick_new"), 
+	AD_CLICK_NEW((byte) 12,"adclick_new"),
 	AD_DISPLAY_NEW((byte) 13, "addisplay_new");
 
 	private final byte OperateId;
